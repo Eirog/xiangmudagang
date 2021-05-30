@@ -15,7 +15,4 @@ Test SShKey
 
 ***************
 edit by Corporation
-这是一个测试
-这是测试
-测试   ...
 **************
